@@ -1187,7 +1187,7 @@ This is where you update your template's colors.
 
 html {
   background-color: var(--bg) !important;
-  background-image: url("https://mattdowney.github.io/primer/img/img-loader.svg"); */
+/*background-image: url("https://images.pexels.com/photos/1563356/pexels-photo-1563356.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
   background-repeat: no-repeat;
   background-size: 3rem 3rem;
   background-position: center center;
