@@ -1183,7 +1183,7 @@ Please only change the 6-character hex color.
 
 @font-face {
   font-family: "Krylon";
-  src: url("https://github.com/claudia-dube/solely/blob/main/Krylon-Regular.woff") format("woff");
+  src: url("https://github.com/claudia-dube/claudia-dube/blob/main/Krylon-Regular.woff") format("woff");
   font-display: swap;
   font-style: normal !important;
 }
@@ -1195,7 +1195,7 @@ html {
   background-size: 3rem 3rem;
   background-position: center center;
   height: 100% !important; */
-  font-family: "Space Mono", monospace "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
+  font-family: 'Space Mono', monospace "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
 }
 
 body {
@@ -1225,7 +1225,7 @@ ul, ol, li {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Krylon", serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
+  font-family: 'Krylon', 'Nanum Myeongjo', serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
   font-style: normal !important;
 }
 
@@ -2136,7 +2136,7 @@ img {
 .notion-callout .notion-callout__content .notion-collection .notion-collection-table__cell.text .color-red {
   color: var(--accent) !important;
   background: var(--black) !important;
-  font-family: "Krylon", monospace, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
+  font-family: 'Krylon', 'Nanum Myeongjo', serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
   text-align: center !important;
   font-size: 3rem !important;
 
