@@ -1,8 +1,5 @@
 /*
 This is where you update your template's colors.
-Select any hex color you'd like for --bg (background),
---contrast (text), --accent (accent color).
-Please only change the 6-character hex color.
 */
 
 :root {
@@ -1183,19 +1180,19 @@ Please only change the 6-character hex color.
 
 @font-face {
   font-family: "Krylon";
-  src: url("https://github.com/claudia-dube/claudia-dube/blob/main/Krylon-Regular.woff") format("woff");
+  src: url("https://claudia-dube.github.io/Krylon-Regular.woff") format("woff");
   font-display: swap;
   font-style: normal !important;
 }
 
 html {
   background-color: var(--bg) !important;
-  /* background-image: url("https://mattdowney.github.io/primer/img/img-loader.svg"); */
-  /* background-repeat: no-repeat;
+  background-image: url("https://mattdowney.github.io/primer/img/img-loader.svg"); */
+  background-repeat: no-repeat;
   background-size: 3rem 3rem;
   background-position: center center;
   height: 100% !important; */
-  font-family: 'Space Mono', monospace "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
+  font-family: "Space Mono", monospace "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
 }
 
 body {
@@ -1225,7 +1222,7 @@ ul, ol, li {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Krylon', 'Nanum Myeongjo', serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
+  font-family: "Krylon", "Nanum Myeongjo", serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
   font-style: normal !important;
 }
 
@@ -1462,7 +1459,7 @@ img {
 }
 .notion-column-list .notion-collection .notion-collection-table__wrapper .notion-collection-table .notion-collection-table__cell.title a {
   font-size: 1.25rem !important;
-  font-family: "Space Mono, monospace, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
+  font-family: "Space Mono", monospace, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
   text-decoration: none !important;
   transition: all 0.2s ease-in-out !important;
   /*&:after {
@@ -2136,7 +2133,7 @@ img {
 .notion-callout .notion-callout__content .notion-collection .notion-collection-table__cell.text .color-red {
   color: var(--accent) !important;
   background: var(--black) !important;
-  font-family: 'Krylon', 'Nanum Myeongjo', serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
+  font-family: "Krylon", "Nanum Myeongjo", serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
   text-align: center !important;
   font-size: 3rem !important;
 
